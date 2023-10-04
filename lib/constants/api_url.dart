@@ -1,0 +1,1 @@
+String apiUrlLink = 'https://fakestoreapi.com/products';
